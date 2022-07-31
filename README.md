@@ -12,8 +12,6 @@
 
 ## Gostou do meu portfolio? Entre em contato, nas redes socias!
 
-  - Pode me mandar uma mensagem no Telegram: (https://web.telegram.org/k/)
-  
   - Meu portfolio [https://anacarladahora.github.io/portfolio/] 
 
   - Meu e-mail é: anacarladahora1086@gmail.com
