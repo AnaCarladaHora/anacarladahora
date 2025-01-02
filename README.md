@@ -27,7 +27,7 @@
 
 ## Gostou do meu portfolio? Entre em contato, nas redes socias!
 
-  - Meu portfolio [https://anacarladahora.github.io/portfolio/] 
+  - Meu portfolio [https://anacarladahora.github.io/Protfolio-2025-Ana-Carla-Da-Hora/] 
 
   - Meu e-mail é: anacarladahora1086@gmail.com
 
@@ -46,7 +46,7 @@
 
 - fiz o curso de SQL para Banco de Dados MySQL pela minha faculdade Estácio de Sá
 
-- Durante os cursos e os challenges eu desenvolvi osprojetos que estão  no meu portfolio [https://anacarladahora.github.io/portfolio/]
+- Durante os cursos e os challenges eu desenvolvi osprojetos que estão no meu portfolio [https://anacarladahora.github.io/portfolio/]
 
 ## Eu tenho algum conhecimento sobre essas tecnologias
 
